@@ -2,3 +2,4 @@
 print("django is on the way")
 //here is my first git repository 
 //git is too on the way 
+print("git is on the way ")
